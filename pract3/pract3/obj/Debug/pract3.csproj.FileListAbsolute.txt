@@ -1,0 +1,6 @@
+C:\Users\11\RiderProjects\pract3\pract3\bin\Debug\pract3.exe
+C:\Users\11\RiderProjects\pract3\pract3\bin\Debug\pract3.pdb
+C:\Users\11\RiderProjects\pract3\pract3\obj\Debug\pract3.csprojAssemblyReference.cache
+C:\Users\11\RiderProjects\pract3\pract3\obj\Debug\pract3.csproj.CoreCompileInputs.cache
+C:\Users\11\RiderProjects\pract3\pract3\obj\Debug\pract3.exe
+C:\Users\11\RiderProjects\pract3\pract3\obj\Debug\pract3.pdb
